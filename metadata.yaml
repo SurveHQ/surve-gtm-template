@@ -1,5 +1,5 @@
 homepage: "https://www.surve.nl"
 documentation: "https://app.surve.nl/helpdesk"
 versions:
-  - sha: 77de8443a8f22a139d7bb3e45144a39bc15d7b7a
+  - sha: 50b64a542c5cc81cae2158a692c07146059332b2
     changeNotes: Initial release.
